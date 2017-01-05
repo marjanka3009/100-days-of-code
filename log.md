@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017 Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spent hours and hours finishing the first lessons FCC on html and CSS and bootstrap.  Started looking at the first challenges: the tribut page and the portfolio. Made the rest of the arrangements. Getting an account on github and connecting to gitter.
+**Thoughts:** I'm going really fast with these lessons due to my prior knowledge no doubt. I am a bit anxious about this gitter-twitter-github stuff and feeling somewhat overwhelmed by it. When I read the gitter comments I see I am not the only one.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** https://codepen.io/marjanka/pen/NdWvoR
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: January 4, 2017 Wednesday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Started the FCC tribute page. I have not spend more than an hour on the challenge (tired after a long day of making cloths withe the girls). Started the Javascript lessons of FCC. The lessons are going really well. :-)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I don't really see the point of using bootstrap with my current knowledge of css. And working with it in codepen means I have to override it or create additional classes to override the bootstrap css. However if I could copy the css and adapt it to my project at hand it could work. I don't know what the possibilities are but I intend to find out. 
+**Link(s) to work**: https://codepen.io/marjanka/pen/NdWvoR
 
 
-### Day 1: June 27, Monday
+### Day 3: June 27, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Just noticed my codepen is back to the initial state. I guess I forgot to save the page. (hmm)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I am amazed at the requests people have (can someone tell me daily the progress I made etc)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** https://codepen.io/marjanka/pen/NdWvoR
