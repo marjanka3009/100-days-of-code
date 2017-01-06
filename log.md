@@ -2,8 +2,8 @@
 
 ### Day 4 : January 6, Friday
 
-**Today's Progress**: Moved my codepen code to GitHub to avoid shortcuts (in GitHub I'm forced to write also the code for html body head etc en link to bootstrap). Struggled with JS the synthax. At a certain point I decided to write the code of every single JS challenge in my text-editor. 
-**Thoughts** First writing the code in a text-editor instead of filling in the blanks will hopefully help me remembering the syntnax and the repetition will also work. JS gave me a bit of a headache.
+**Today's Progress**: Moved my codepen code to GitHub to avoid shortcuts (in GitHub I'm forced to write also the code for html body head etc en link to bootstrap). Struggled with JS synthax. At a certain point I decided to write the code of every single JS challenge in my text-editor. 
+**Thoughts** First writing the code in a text-editor instead of filling in the blanks will hopefully help me remembering the syntnax and the repetition will also work. JS gave me a bit of a headache. Will write the code of all tutorials in a separate file, also for reference when the real fun begins.
 **Link(s) to work** 
 
 ### Day 3: January 5, Thursday
