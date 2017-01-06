@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid">
+			<h1 class="text-primary">Tribute to the serpentine danse<br>
+        <small>A timeless creation by Loïe Fuller</small></h1>
+      
+			<div class="jumbotron">
+        
+        
+				<img src="">
+			</div>
+
+			<div class="row">
+				<div class="col-sm-4">filmpje 1</div>
+				<div class="col-sm-4">filmpje 2</div>
+				<div class="col-sm-4">filmpje 3</div>
+			</div>	
+
+			<div class="row">
+				<div  class="col-sm-12">
+          <h2 class="text-primary">Biography</h2>
+          <table>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+                                                                      
+          </table>
+
+
+</div>
+
+			</div>
+
+				<div>Want to know more about Ruth St Denis. Check out this <a href="https://en.wikipedia.org/wiki/Ruth_St._Denis" target="_blank">article on Wikipedia</a></div>
+			<div class="row">
+				<div class="col-sm-6">created by</div>
+				<div class="col-sm-6">follow me on fb twitter linkedin</div>
+
+			</div>
+
+			<div class="row"></div>
+				<div>Comment section</div>
+
+		</div>
+
+</body>
+</html>
