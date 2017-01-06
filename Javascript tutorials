@@ -1,0 +1,159 @@
+
+// 186 Chaining If else statements. 
+
+// Je kunt ook een hele rij onder elkaar plakken
+
+function testSize(num) {
+	if (num < 5) {
+		return "Tiny";
+	} else if (num < 10) {
+		return "Small";
+	} else if (num < 15) {
+		return "Medium";
+	} else if (num < 20) {
+		return "Large";
+	} else if (num >= 5) {
+		return "Huge";
+	} 
+}
+testSize(7)
+
+//
+
+
+// 185 Logical Order in If Else Statements
+
+// vergelijk deze twee - de uitkomst is verschillend
+
+function foo(x) {
+	if (x<1) {
+		return "Less than one";
+	} else if (x<2) {
+		return "Less than two";
+	} else {
+		return "Greater than or equal to two";
+	}
+}
+
+function bar(x) {
+	if (x<2) {
+		return "Less than two";
+	} else if (x<1) {
+		return "Less than one";
+	} else {
+		return "Greater than or equal to two"
+	}
+}
+
+// foo(0) geeft als uitkomst "Less than one" en bar(0) geeft als uitkomst "Less than two". De functie pakt dus de eerste de beste regel die van toepassing is en gaat alleen naar de volgende als de regel niet klopt.
+
+function orderMyLogic(val) {
+	if (val < 5) {
+		return "Less than 5";
+	} else if (val < 10) {
+		return "Less than 10";
+	} else {
+		return "Greater than or equal to 10";
+	}
+}
+
+
+// 184 Introducing Else If statements
+
+if (num > 15) {
+	return "Bigger than 15";
+} else if (num < 5) {
+	return "Smaller than 5";
+} else {
+	return "Between 5 and 15";
+}
+
+function testElseIf(val) {
+	if (val>10) {
+		return "Greater than 10";
+	} else if (val <5) {
+		return "Smaller than 5";
+	} else {
+		return "Between 5 and 10";
+	}
+}
+testElseIf(7);
+
+
+// 183 Introducing Else statements
+
+if (num > 10) {
+	return "Bigger than 10";
+} else {
+	return "10 or less";
+}
+
+function testElse(val) {
+	var result = "";
+	if (val > 5) {
+		result = "Bigger than 5";
+	} else {
+		result = "5 or Smaller";
+	}
+	return result;
+}
+
+testElse(4);
+
+
+
+
+// 181 comparisons with the logical or operator
+
+if (num > 10) {
+	return "no";
+}
+if (num < 5){
+	return "no";
+}
+return "yes";
+
+// is verkort
+
+if (num > 10 || num < 5) {
+	return "no";
+}
+return "yes";
+
+// oefening
+
+function testLogicalOr (val) {
+	if (val >= 20 || val <= 10) {
+		return "Outside";
+	}
+	return "Inside";
+}
+testLogicalOr
+
+
+
+// 180? als aan twee voorwaarden moet worden voldaan
+
+if (num>5) {
+	if (num<10) {
+		return "Yes";
+	}
+}
+return "No";
+
+// is zelfde als
+
+if (num >5 && num < 10) {
+	return "Yes";
+}
+return "No";
+
+// in een functie
+
+function testLogicalAnd(val) {
+	if (val <= 50 && val >= 25) {
+			return "yes";
+		}
+	return "No";
+}
+testLogicalAnd(10);
