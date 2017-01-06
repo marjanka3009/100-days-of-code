@@ -1,7 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4 : January 6, Friday
 
-### Day 3: June 27, Thursday
+**Today's Progress**: Moved my codepen code to GitHub to avoid shortcuts (in GitHub I'm forced to write also the code for html body head etc en link to bootstrap). Struggled with JS the synthax. At a certain point I decided to write the code of every single JS challenge in my text-editor. 
+**Thoughts** First writing the code in a text-editor instead of filling in the blanks will hopefully help me te remember the syntnax and the repetition will also work. JS gave me a bit of a headache.
+**Link(s) to work** 
+
+### Day 3: January 5, Thursday
 
 **Today's Progress**: Just noticed my codepen is back to the initial state. I guess I forgot to save the page. (hmm). Built the structure. Did tutorials JS. Forked repo on GitHub and bult logfile. Downloaded bootstrap and studied scss.
 **Thoughts** Github proved to be less difficult than expected. JS went well. I will make the tribute page in bootstrap but I think I will make the profile page without it. Learning bootstrap can wait till later
