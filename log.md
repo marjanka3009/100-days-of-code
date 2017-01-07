@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 5 : January 4, Saturday
+
+**Today's Progress**: 1.5 hours Javascript. 
+**Thoughts** Slowly but steady.... Glad I did it although I didn't feel like it.
+**Link(s) to work** 
+
+
 ### Day 4 : January 6, Friday
 
 **Today's Progress**: Moved my codepen code to GitHub to avoid shortcuts (in GitHub I'm forced to write also the code for html body head etc en link to bootstrap). Struggled with JS synthax. At a certain point I decided to write the code of every single JS challenge in my text-editor. 
