@@ -1,4 +1,136 @@
 
+
+
+
+//191 Multiple Identical Options in Switch Statements
+
+switch (val) {
+	case 1:
+	case 2:
+	case 3:
+		result = "1, 2, or 3";
+		break;
+	case 4:
+		result = "4 alone";
+		break;
+}
+
+function sequentialSizes(val) {
+	var = answer = "";
+	switch(val) {
+		case 1:
+		case 2:
+		case 3:
+			val = "Low";
+			break;
+		case 4:
+		case 5:
+		case 6:
+			val = "Mid";
+			break;
+		case 7:
+		case 8:
+		case 9:
+			val = "High";
+			break;
+	}
+  return answer;  
+}
+chainToSwitch(7);
+
+
+// 190 Adding a default option in Switch statements
+
+switch (num) {
+	case value1:
+		statement1;
+		break;
+	case value2:
+		statement2;
+		break;
+	default:
+		defaultStatement;
+}
+
+function switchOfStuff(val) {
+	var answer = "";
+	switch (val) {
+		case "a":
+			answer = "apple";
+			break;
+		case "b":
+			answer = "bird";
+			break;
+		case "c":
+			answer = "cat";
+			break;
+		default:
+			answer = "stuff";
+			break;
+	}
+}
+
+
+
+
+// 189 selecting from many options with switch statements
+
+switch (num) {
+	case value1:
+		statement1;
+		break;
+	case value2:
+		statement2;
+		break;
+	case valueN:
+		statementsN;
+		break;
+}
+
+Function caseInSwitch(val) {
+	var answer = "";
+  switch (val) {
+    case 1:
+		answer = "alpha";
+		break;
+	case 2:
+		answer = "beta";
+		break;
+	case 3:
+		answer = "gamma";
+		break;
+	case 4:
+		answer = "delta";
+		break;  
+  }
+  	return answer;
+}
+
+
+
+// 189 Praktijkoefening else if chaining
+
+// let op dat je == gebruikt, want het is een equal en geen assignment
+
+function golfScore(par, strokes) {
+	if (strokes == 1) {
+		return "Hole-in-one!";
+	} else if (strokes <= par - 2) {
+		return "Eagle";
+	} else if (strokes == par - 1) {
+		return "Birdie";
+	} else if (strokes == par) {
+		return "Par";
+	} else if (strokes == par + 1) {
+		return "Bogey";
+	} else if (strokes == par + 2) {
+		return "Double Bogey";
+	} else if (strokes >= par + 3) {
+		return "Go Home!";
+	}
+}
+
+
 // 186 Chaining If else statements. 
 
 // Je kunt ook een hele rij onder elkaar plakken
@@ -157,3 +289,6 @@ function testLogicalAnd(val) {
 	return "No";
 }
 testLogicalAnd(10);
+
+
+
