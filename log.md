@@ -1,7 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6 : January 8, Saturday
 
-### Day 5 : January 4, Saturday
+**Today's Progress**: 0.5 hours Javascript. 
+**Thoughts** Same story. Not much time today and tired after visitor. Did only half an hour but better than nothing at all.
+**Link(s) to work** 
+
+### Day 5 : January 7, Saturday
 
 **Today's Progress**: 1.5 hours Javascript. 
 **Thoughts** Slowly but steady.... Glad I did it although I didn't feel like it.
