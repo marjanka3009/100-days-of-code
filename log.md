@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 6 : January 8, Saturday
+
+### Day 7 : January 9, Monday
+
+**Today's Progress**: 1 hour Javascript. 
+**Thoughts** One hour is hardly enough to get into the flow. Small succes did one slightly complex challenge (in three steps)  without example and managed to do this without help.
+**Link(s) to work** 
+
+### Day 6 : January 8, Sunday
 
 **Today's Progress**: 0.5 hours Javascript. 
 **Thoughts** Same story. Not much time today and tired after visitor. Did only half an hour but better than nothing at all.
