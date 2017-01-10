@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+**Today's Progress**: 1.5 hours Javascript. 
+**Thoughts** Still plodding along with algorithms.
+**Link(s) to work** 
+
 ### Day 7 : January 9, Monday
 
 **Today's Progress**: 1 hour Javascript. 
