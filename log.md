@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+### Day 8 : January 10, Tuesday
 
 **Today's Progress**: 1.5 hours Javascript. 
 **Thoughts** Still plodding along with algorithms.
