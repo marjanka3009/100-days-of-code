@@ -1,5 +1,109 @@
 # 100 Days Of Code - Log
 
+
+### Day 27 : January 29, Sunday
+
+**Today's Progress**: 1 hours Javascript fcc.
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 24 : January 28, Saturday
+
+**Today's Progress**: 1 hours Javascript fcc.
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 23 : January 27, Friday
+
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 22 : January 26, Thursday
+
+**Today's Progress**: 1.5 finished algorytm section fcc finally started code challenge after 1/5 of the challenge rolling up sleeves. first challenge reverse string
+**Thoughts** Actually not that hard. tested every step in jsbin (with console.log) and than pasted the code in fcc
+**Link(s) to work** 
+
+### Day 21 : January 25, Wednesday
+
+**Today's Progress**: 1 hours Javascript fcc. 
+**Thoughts** .
+**Link(s) to work** 
+
+### Day 20 : January 24, Tuesday
+
+**Today's Progress**: 1 hour Sitepoint becoming a web developer from scratch js section. . 
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 19 : January 23, Monday
+
+**Today's Progress**: 1 hour Sitepoint becoming a web developer from scratch js section. 
+**Thoughts** .
+**Link(s) to work** 
+
+### Day 18 : January 20, Friday
+
+**Today's Progress**: 1 hours Javascript fcc. 
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 17 : January 19, Thursday
+
+**Today's Progress**: 1 hours Javascript fcc. 
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 16 : January 18, Wednesday
+
+**Today's Progress**: 1 hours Javascript fcc. 
+**Thoughts** .
+**Link(s) to work** 
+
+### Day 15 : January 17, Tuesday
+
+**Today's Progress**: 1 hour Sitepoint becoming a web developer from scratch js section. . 
+**Thoughts** 
+**Link(s) to work** 
+
+### Day 14 : January 16, Monday
+
+**Today's Progress**: 1 hour Sitepoint becoming a web developer from scratch js section. 
+**Thoughts** .
+**Link(s) to work** 
+
+
+### Day 13 : January 15, Sunday
+
+**Today's Progress**: 1 hour Sitepoint. 
+**Thoughts** Nice to see what the code actuaily does in the browser
+**Link(s) to work** 
+
+### Day 12 : January 14, Saturday
+
+**Today's Progress**: 1 hour Sitepoint. 
+**Thoughts** Nice to see what the code actuaily does in the browser
+**Link(s) to work** 
+
+### Day 11 : January 13, Friday
+
+**Today's Progress**: 1.5 hours Javascript. 
+**Thoughts** Still plodding along with algorithms.
+**Link(s) to work** 
+
+### Day 10 : January 12, Thursday
+
+**Today's Progress**: 1.5 hours Javascript. 
+**Thoughts** Still plodding along with algorithms.
+**Link(s) to work** 
+
+### Day 9 : January 11, Wednesday
+
+**Today's Progress**: 1.5 hours Javascript. 
+**Thoughts** Still plodding along with algorithms.
+**Link(s) to work** 
+
 ### Day 8 : January 10, Tuesday
 
 **Today's Progress**: 1.5 hours Javascript. 
