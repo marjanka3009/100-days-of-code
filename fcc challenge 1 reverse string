@@ -1,0 +1,23 @@
+// Reverse a string
+// You may need to turn the string into an array before you can reverse it.
+// Your result must be a string.
+// Eerst in jsbin de diverse stappen getest
+
+str = "hello";
+str=str.split("");
+console.log(str);
+str.reverse();
+console.log(str);
+str = str.join("");
+console.log(str);
+
+// invoegen in functie
+
+function reverseString(str) {
+	str=str.split("");
+	str.reverse();
+	str = str.join("");
+  return str;
+}
+
+reverseString("hello");
