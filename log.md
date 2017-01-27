@@ -15,8 +15,8 @@
 
 ### Day 23 : January 27, Friday
 
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: 1 h challenge, couldn't work out the for loop, found out that there is also a solution called recursive, learned about that
+**Thoughts** try out different solutions tomorrow and also try out different solutions for the first challenge
 **Link(s) to work** 
 
 ### Day 22 : January 26, Thursday
