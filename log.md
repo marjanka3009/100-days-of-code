@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
 
-### Day 27 : January 29, Sunday
+### Day 25 : February 2, Thursday
 
 **Today's Progress**: 1 hours Javascript fcc.
 **Thoughts** 
 **Link(s) to work** 
 
-### Day 24 : January 28, Saturday
+### Day 24 : February 1, Wednesday
 
-**Today's Progress**: 1 hours Javascript fcc.
-**Thoughts** 
+**Today's Progress**: 1 hours Javascript fcc.tried out the factorialize number solution
+**Thoughts** Missed four days due to weekend and deadlines. Hopefully back on track now
 **Link(s) to work** 
 
 ### Day 23 : January 27, Friday
