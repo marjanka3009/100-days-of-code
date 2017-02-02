@@ -3,8 +3,8 @@
 
 ### Day 25 : February 2, Thursday
 
-**Today's Progress**: 1 hours Javascript fcc.
-**Thoughts** 
+**Today's Progress**: 1 hours Javascript fcc. challenge check for palindromes
+**Thoughts** managed to ignore punctuation (had to look this one up), set to lowercase and reverse. Tomorrow if else statement to check for palindromes and check out other solutions. 
 **Link(s) to work** 
 
 ### Day 24 : February 1, Wednesday
