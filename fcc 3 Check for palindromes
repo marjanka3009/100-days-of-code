@@ -14,7 +14,22 @@ Here are some helpful links:
 String.prototype.replace()
 String.prototype.toLowerCase()
 
-Ignore punctuation case and spacing
-ignore punctuation - remove ;/:'" etc
-ignore space - replace " " with ""
-ignore case - add gi
+---- probeersel tot nu toe
+
+var str = 'Twas, the night before. Xmas...';
+str = str.replace(/[., ]/gi, '');
+str = str.toLowerCase();
+var newstr = str.split("");
+newstr = newstr.reverse();
+newstr = newstr.join("");
+
+console.log(str); // "twasthenightbeforexmas"
+console.log(newstr);  // "samxerofebthginehtsawt"
+
+If else statement maken
+
+
+
+
+
+
