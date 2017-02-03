@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 26 : February 3, Friday
+
+**Today's Progress**: 1 hours Javascript fcc. finished palindromes
+**Thoughts** sometimes the challenges require kwowledge that hasn't been taught, tricky. 
+**Link(s) to work** 
+
 ### Day 25 : February 2, Thursday
 
 **Today's Progress**: 1 hours Javascript fcc. challenge check for palindromes
