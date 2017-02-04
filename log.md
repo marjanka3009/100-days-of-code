@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27 : February 4, Saturday
+
+**Today's Progress**: 1.5 hours Javascript fcc. made challenge find longest word without help
+**Thoughts** for next days, make two more challenges and compare to other solutions. Installed Anki for training to remember synthax 
+**Link(s) to work** 
 
 ### Day 26 : February 3, Friday
 
