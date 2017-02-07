@@ -1,21 +1,10 @@
 function titleCase(str) {
-  str = str.split(" ");
-  var imax= str.length;
-  console.log(imax);
-  for (var i=0; i < imax; i++) {
-    var subStr=str[i];
-    var subStr= subStr.replace(subStr.charAt(0),subStr.charAt(0).toUpperCase());
-
-    console.log(subStr);
-//    console.log(subStr);
+  str = str.toLowerCase().split(" ");
+  for (var i=0; i < str.length; i++) {
+    str[i]= str[i].replace(str[i].charAt(0),str[i].charAt(0).toUpperCase());
   }
-       console.log(str);
-
-  
- 
-  return str;
+  return str.join(' ');    
 }
 
-titleCase("I'm a little tea pot");
 
-// nu nog de boel weer aan elkaar zien te plakken
+titleCase("I'm a little tea pot");
