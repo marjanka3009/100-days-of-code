@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28 : February 7, Tuesday
+
+**Today's Progress**: 2 hours Javascript fcc. made challenge Case Sentence 
+**Thoughts** needed some help for the last join-statement and forgot to lowercase, but my thought process was sound 
+**Link(s) to work** 
+
 ### Day 27 : February 4, Saturday
 
 **Today's Progress**: 1.5 hours Javascript fcc. made challenge find longest word without help
