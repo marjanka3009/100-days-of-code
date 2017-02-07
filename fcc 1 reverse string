@@ -5,11 +5,8 @@
 
 str = "hello";
 str=str.split("");
-console.log(str);
 str.reverse();
-console.log(str);
 str = str.join("");
-console.log(str);
 
 // invoegen in functie
 
