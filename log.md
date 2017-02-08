@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 29 : February 8, Tuesday
+
+**Today's Progress**: 1.5 hours Javascript fcc. find largest Number 
+**Thoughts** the approach to the problem was right (a for loop within a for loop) but I didn't get the syntax right and had to resort to a solution on the internet. I want to try a method with sorting the numbers and picking the max number but I will try that some other time
+
+**Link(s) to work** 
+
 ### Day 28 : February 7, Tuesday
 
 **Today's Progress**: 2 hours Javascript fcc. made challenge Case Sentence 
