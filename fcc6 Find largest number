@@ -1,0 +1,15 @@
+function largestOfFour(arr) {
+  // You can do this!
+  return arr;
+}
+
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+
+
+array bestaat uit subarray en die moeten allemaal nagelopen worden op grootste getal.
+En de grootste getallen uit de subarrays moeten ook weer met elkaar vergeleken worden
+
+je zou een for loop kunnen maken waarin telkens wordt gekeken is getal groter of kleiner dan en return dan het grootste getal,
+zoals in een eerdere opdracht. En dan kijken wat het grootste getal is van de array die je dan uitkrijgt. 
+
+tip is om naar operators te kijken, maar ik herinner me vaag dat er ook iets was met maximaal getal.
