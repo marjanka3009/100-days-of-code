@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 29 : February 8, Tuesday
+### Day 30 : February 10, Friday
+
+**Today's Progress**: 1 hours Javascript fcc. confirm Ending 
+**Thoughts** Did the challenge amazingly fast compared to what I' m used to, within 10 minutes. Plan to make flashcards within Anki to memorize all the methods and functions
+
+### Day 30 : February 9, Thursday
+
+**Today's Progress**: 1 hours Javascript fcc. confirm Ending 
+**Thoughts** Started reading about substr and substring and experimenting with it
+
+### Day 29 : February 8, Wednesday
 
 **Today's Progress**: 1.5 hours Javascript fcc. find largest Number 
 **Thoughts** the approach to the problem was right (a for loop within a for loop) but I didn't get the syntax right and had to resort to a solution on the internet. I want to try a method with sorting the numbers and picking the max number but I will try that some other time
