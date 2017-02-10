@@ -2,7 +2,7 @@
 
 ### Day 30 : February 10, Friday
 
-**Today's Progress**: 1 hours Javascript fcc. confirm Ending 
+**Today's Progress**: 1 hours Javascript fcc. confirm Ending / fcc repeat a string / 
 **Thoughts** Did the challenge amazingly fast compared to what I' m used to, within 10 minutes. Plan to make flashcards within Anki to memorize all the methods and functions
 
 ### Day 30 : February 9, Thursday
