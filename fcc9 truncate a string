@@ -23,4 +23,43 @@ num = 14 betekent dat de eerste 11 karakters worden getoond plus 3 puntjes
 
 num = num - 3;   m.a.w.
 
+function truncateString(str, num) {
+  // Clear out that junk in your trunk
+  return str;
+}
+
+
+
+
+var str = "Peter Piper picked a peck of pickled peppers";
+var num = 14;
+
+if (num < 4) {
+  str = str;
+  
+} else {
+  str = str.slice(0, num - 3).concat("...");
+}
+}
+
+function truncateString(str, num) {
+if (num < 4) {
+  str = str;
+  
+} else {
+  str = str.slice(0, num - 3).concat("...");
+}
+  return str;
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 11);
+
+console.log(str);
+console.log(num);
+
+
+// accepteert de formule wel, maar een aantal gevallen doet ie het niet
+
+
+
 
