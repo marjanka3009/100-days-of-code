@@ -3,16 +3,17 @@ Twee manieren om het laatste karakter te vinden
 str.substring geeft het begin tot en met het gewenste karakter
 str.substr geeft het begin tot en met de lengte van het gewenste karakter
 
-Op twee manieren is dus het laatste karakter te bepalen
 
-var str = "Open sesame";
-var numberOfCharacters = str.length;
-//str = str.substring(numberOfCharacters-1, numberOfCharacters);
-var strSubstr = str.substr(numberOfCharacters-1);
-//console.log(str);
-//console.log(numberOfCharacters);
-console.log(strSubstr);
+function confirmEnding(str, target) {
+var targetLength = target.length;
+var strLength = str.length;
+str = str.substr(strLength-targetLength);
+if (str == target) {
+  str = true;
+} else {
+  str = false;
+}
+return str;
+}
 
-maar nu wordt niet alleen om het laatste karakter gevraagd, maar om een reeks van karakters die allemaal overeen moeten komen
-er moet dus een for loop oid komen om alle karakter een voor een te controleren.
-
+confirmEnding("Bastian", "n");
