@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 31 : February 11, Saturday
+
+**Today's Progress**: 1 hours Javascript fcc. truncate a string
+**Thoughts** Found part of the solution, but finally had to look it up on the internet. Still don' t really understand the solution. A challenge to study again later when more of the stuff has sunk in.
+
 ### Day 30 : February 10, Friday
 
 **Today's Progress**: 1 hours Javascript fcc. confirm Ending / fcc repeat a string / started truncate a string
