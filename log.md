@@ -2,8 +2,8 @@
 
 ### Day 31 : February 11, Saturday
 
-**Today's Progress**: 1 hours Javascript fcc. truncate a string, started studying chunkey monkey slicing and pushing
-**Thoughts** Found part of the solution, but finally had to look it up on the internet. Still don' t really understand the solution. A challenge to study again later when more of the stuff has sunk in. Chunky monkey: pushing baffles me. pushing returns a number, not a string. Grrrr!
+**Today's Progress**: 1 hours Javascript fcc. truncate a string, chunkey monkey slicing and pushing
+**Thoughts** Found part of the solution, but finally had to look it up on the internet. Still don' t really understand the solution. A challenge to study again later when more of the stuff has sunk in. Chunky monkey: pushing baffles me. pushing returns a number, not a string. Grrrr! Copied solution I only half understood. Study again later.
 
 ### Day 30 : February 10, Friday
 
